@@ -8,3 +8,14 @@
 body {
     background-color: #2ab3a6;
 }
+
+.calculator {
+    width: 250px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 15px;
+    padding: 10px;
+    background-color: #000807;
+}
